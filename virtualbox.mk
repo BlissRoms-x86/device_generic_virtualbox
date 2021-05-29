@@ -6,7 +6,7 @@ PRODUCT_BRAND  := virtualbox_brand
 PRODUCT_DEVICE := virtualbox
 PRODUCT_MODEL  := virtualbox_model
 
-TARGET_KERNEL_SOURCE := kernel
+TARGET_KERNEL_SOURCE := vbox-kernel
 TARGET_KERNEL_CONFIG := android-x86_defconfig
 TARGET_ARCH := x86
 
